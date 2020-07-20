@@ -1,2 +1,2 @@
 # learning-typescript
-First classes to lear this amazing tool called typescript
+First classes to learn this amazing tool called typescript
